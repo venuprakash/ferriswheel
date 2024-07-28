@@ -1,4 +1,4 @@
-<h1>Ferris Wheel</h1>
+<h1>FREECODECAMP - Ferris Wheel</h1>
 
 <h3>https://venuprakash.github.io/ferriswheel/</h3>
 
